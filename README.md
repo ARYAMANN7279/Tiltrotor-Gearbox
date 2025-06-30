@@ -49,7 +49,7 @@ This project simulates a key component of the **transmission system** that trans
 ## 📌 How to Run
 
 1. Open MATLAB.
-2. Load the scripts in `/code/`.
+2. Load the scripts in `Group Project.pdf`.
 3. Run `main.m` or open and execute the sections manually.
 4. Observe response graphs for step inputs.
 

@@ -46,13 +46,6 @@ This project simulates a key component of the **transmission system** that trans
 | Yug Vora            | 231175      |
 | Arul Gupta          | 230207      |
 
-### 🛠 Work Division
-
-- **Nonlinear Modeling**: Arul Gupta, Yug Vora  
-- **MATLAB Coding (Simulation)**: Varun Sathaye  
-- **Linearization & Analysis**: Aryamann Srivastava, Arul Gupta, Varun Sathaye  
-- **Transfer Function & Bode Plot**: Yug Vora, Aryamann Srivastava  
-- **Extra Credit (Gear Stiffness)**: Entire group
 
 ## 📂 Folder Structure
 
@@ -60,9 +53,6 @@ This project simulates a key component of the **transmission system** that trans
 ├── 📄 Group Project.pdf
 ├── 📄 README.md
 
-yaml
-Copy
-Edit
 
 ## 📌 How to Run
 

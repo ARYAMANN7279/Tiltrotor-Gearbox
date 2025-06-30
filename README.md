@@ -22,13 +22,6 @@ This project simulates a key component of the **transmission system** that trans
 - ✅ Transfer function and Bode analysis
 - ✅ Gear stiffness modeling as an extension
 
-## 📷 Snapshots
-
-<img src="images/system_response.png" width="400"/>  
-*Step response of (θ₁ - θ₂) for Tm = 2 N-m*
-
-<img src="images/bode_plot.png" width="400"/>  
-*Bode plot of the linearized system*
 
 ## 🧮 Equations Modeled
 
@@ -50,8 +43,8 @@ This project simulates a key component of the **transmission system** that trans
 ## 📂 Folder Structure
 
 📁 Tiltrotor-Gearbox/
-├── 📄 Group Project.pdf
-├── 📄 README.md
+├📄 Group Project.pdf
+├📄 README.md
 
 
 ## 📌 How to Run

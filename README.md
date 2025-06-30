@@ -56,11 +56,9 @@ This project simulates a key component of the **transmission system** that trans
 
 ## 📂 Folder Structure
 
-.
-├── images/ # Graphs and plots (optional for GitHub)
-├── code/ # MATLAB scripts
-├── report/ # PDF project report
-└── README.md
+📁 Tiltrotor-Gearbox/
+├── 📄 Group Project.pdf
+├── 📄 README.md
 
 yaml
 Copy

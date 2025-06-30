@@ -42,9 +42,8 @@ This project simulates a key component of the **transmission system** that trans
 
 ## 📂 Folder Structure
 
-📁 Tiltrotor-Gearbox/
-├📄 Group Project.pdf
-├📄 README.md
+1.  Group Project.pdf
+2.  README.md
 
 
 ## 📌 How to Run
